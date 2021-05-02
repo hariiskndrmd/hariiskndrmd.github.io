@@ -1,5 +1,14 @@
-### Hello, I'm Hari Iskandar 👋
+# Hello, I'm Hari Iskandar 👋
 
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![TypeScript](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+
+Web Designer & Web Developer located in Indonesia
+
+- 🔭 I’m currently studying **Software Engineering** at SMKN 1 Ciamis
+- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
 <!--
 **hariiskndrmd/hariiskndrmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
